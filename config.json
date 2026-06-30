@@ -1,0 +1,15 @@
+{
+  "exam_period_start": "2026-06-01",
+  "exam_period_end": "2026-06-07",
+  "valid_channels": [
+    "online",
+    "walk-in",
+    "partner"
+  ],
+  "discount_rules": {
+    "online": 0.05,
+    "partner": 0.03,
+    "walk-in": 0.0
+  },
+  "minimum_stock_warning": 10
+}

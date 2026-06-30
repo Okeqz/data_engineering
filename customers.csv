@@ -1,0 +1,7 @@
+customer_id,first_name,last_name,state,email
+C001,Ada,Okafor,Lagos,ada.okafor@example.com
+C002,Bala,Musa,Kaduna,bala.musa@example.com
+C003,Chinwe,Eze,Enugu,chinwe.eze@example.com
+C004,David,Johnson,FCT,david.johnson@example.com
+C005,Efe,Ibrahim,Delta,efe.ibrahim@example.com
+C006,Fatima,Sani,Kano,fatima.sani@example.com

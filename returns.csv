@@ -1,0 +1,6 @@
+return_id,sale_id,date,quantity_returned,reason
+R001,S002,2026-06-03,1,Wrong item
+R002,S004,2026-06-05,2,Damaged packaging
+R003,S999,2026-06-06,1,Unknown sale ID
+R004,S010,2026-06-07,11,Returned quantity too high
+R005,S011,2026-06-07,1,Customer changed mind
