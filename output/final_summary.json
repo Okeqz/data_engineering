@@ -1,0 +1,16 @@
+{
+  "valid_sales_count": 7,
+  "rejected_sales_count": 6,
+  "invalid_returns_count": 2,
+  "total_net_revenue": 81405.0,
+  "top_product_by_revenue": {
+    "product_id": "P004",
+    "product_name": "Pen Bundle",
+    "net_revenue": 23750.0
+  },
+  "top_customer_by_revenue": {
+    "customer_id": "C004",
+    "customer_name": "David Johnson",
+    "net_revenue": 46550.0
+  }
+}

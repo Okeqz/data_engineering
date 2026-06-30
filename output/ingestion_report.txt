@@ -1,0 +1,21 @@
+CampusMart Ingestion Report
+---------------------------
+Files checked             : 5
+Sales rows read           : 13
+Products read             : 6
+Customers read            : 6
+Returns read              : 5
+Valid sales rows          : 7
+Rejected sales rows       : 6
+
+Main rejection reasons:
+  - Missing value         : 1
+  - Duplicate sale ID     : 1
+  - Unknown customer      : 1
+  - Unknown product       : 1
+  - Invalid quantity      : 1
+  - Invalid date          : 1
+  - Invalid channel       : 0
+  - Invalid unit price    : 0
+  - Other                 : 0
+
