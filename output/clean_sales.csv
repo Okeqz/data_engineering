@@ -1,0 +1,8 @@
+sale_id,date,customer_id,customer_name,state,product_id,product_name,category,quantity,unit_price,channel,gross_amount,discount_rate,discount_amount,net_amount_before_returns,quantity_returned,net_amount_after_returns
+S001,2026-06-01,C001,Ada Okafor,Lagos,P001,Notebook Pack,Stationery,3,4500.0,online,13500.0,0.05,675.0,12825.0,0,3,12825.0
+S002,2026-06-01,C002,Bala Musa,Kaduna,P002,Scientific Calculator,Electronics,1,12000.0,walk-in,12000.0,0.0,0.0,12000.0,1,0,0.0
+S003,2026-06-02,C003,Chinwe Eze,Enugu,P003,USB Flash Drive,Electronics,2,7000.0,online,14000.0,0.05,700.0,13300.0,0,2,13300.0
+S004,2026-06-02,C002,Bala Musa,Kaduna,P005,Drawing Set,Art,5,3000.0,partner,15000.0,0.03,450.0,14550.0,2,3,8730.0
+S005,2026-06-03,C004,David Johnson,FCT,P002,Scientific Calculator,Electronics,2,12000.0,online,24000.0,0.05,1200.0,22800.0,0,2,22800.0
+S010,2026-06-06,C004,David Johnson,FCT,P004,Pen Bundle,Stationery,10,2500.0,online,25000.0,0.05,1250.0,23750.0,0,10,23750.0
+S011,2026-06-07,C006,Fatima Sani,Kano,P006,Backpack,Bags,1,18000.0,partner,18000.0,0.03,540.0,17460.0,1,0,0.0
