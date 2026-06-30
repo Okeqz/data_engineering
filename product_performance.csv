@@ -1,7 +1,0 @@
-product_id,product_name,category,total_quantity_sold,total_quantity_returned,net_quantity,total_gross_amount,total_discount_amount,total_net_revenue
-P004,Pen Bundle,Stationery,10,0,10,25000.0,1250.0,23750.0
-P002,Scientific Calculator,Electronics,3,1,2,36000.0,1200.0,22800.0
-P003,USB Flash Drive,Electronics,2,0,2,14000.0,700.0,13300.0
-P001,Notebook Pack,Stationery,3,0,3,13500.0,675.0,12825.0
-P005,Drawing Set,Art,5,2,3,15000.0,450.0,8730.0
-P006,Backpack,Bags,1,1,0,18000.0,540.0,0.0

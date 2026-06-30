@@ -1,7 +1,0 @@
-source_file,row_number,record_id,error_type,error_message,raw_record
-sales.csv,6,S006,Invalid quantity,Invalid quantity: '-1' (must be a positive integer),"{'sale_id': 'S006', 'date': '2026-06-03', 'customer_id': 'C005', 'product_id': 'P001', 'quantity': '-1', 'unit_price': '4500', 'channel': 'walk-in'}"
-sales.csv,7,S007,Missing value,Missing value: 'unit_price' is empty,"{'sale_id': 'S007', 'date': '2026-06-04', 'customer_id': 'C006', 'product_id': 'P004', 'quantity': '4', 'unit_price': '', 'channel': 'online'}"
-sales.csv,8,S003,Duplicate sale ID,Duplicate sale_id: 'S003',"{'sale_id': 'S003', 'date': '2026-06-04', 'customer_id': 'C001', 'product_id': 'P003', 'quantity': '1', 'unit_price': '7000', 'channel': 'online'}"
-sales.csv,9,S008,Unknown customer,Unknown customer_id: 'C999',"{'sale_id': 'S008', 'date': '2026-06-05', 'customer_id': 'C999', 'product_id': 'P001', 'quantity': '2', 'unit_price': '4500', 'channel': 'online'}"
-sales.csv,10,S009,Unknown product,Unknown product_id: 'P999',"{'sale_id': 'S009', 'date': '2026-06-05', 'customer_id': 'C003', 'product_id': 'P999', 'quantity': '1', 'unit_price': '5000', 'channel': 'walk-in'}"
-sales.csv,13,S012,Invalid date,Date '2026-06-08' is outside the project period (2026-06-01 to 2026-06-07),"{'sale_id': 'S012', 'date': '2026-06-08', 'customer_id': 'C001', 'product_id': 'P001', 'quantity': '2', 'unit_price': '4500', 'channel': 'online'}"
